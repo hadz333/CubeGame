@@ -1,5 +1,5 @@
 # CubeGame
-Simple cube game made with Unity
+3D cube game made with Unity
 
 
 I made this game with Unity following the tutorial by Brackeys
